@@ -17,6 +17,3 @@
   <a href = "mailto:liliana_tomaz@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/liliana-tomaz-097297232/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
-  <div style="display: inline_block"><br>
-    <img align="right" alt="LilianaTomaz" height="150" style="border-radius:50px;" src="https://discord.com/channels/@me/876868872731512832/944924050617163797">
-  </div>
