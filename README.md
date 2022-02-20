@@ -1,4 +1,4 @@
-### Olá Eu sou a Liliana 👋
+### Olá! Eu sou a Liliana 👋
 
 
 💻 Estudando Analise e Desenvolvimento de Sistemas (ADS)
